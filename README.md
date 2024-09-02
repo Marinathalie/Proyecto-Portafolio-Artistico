@@ -15,3 +15,9 @@ El proposito del proyecto es mostrar el portafolio artistico de la artista Laura
 ## Guía de usuario
 ---
 El usuario podra acceder a traves de la pagina web y acceder a todos los modulos del sitio web. No requiere registro de usuario.
+
+## Autores
+---
+Maricarmen Martinez
+Laura Garcia
+Maria Guillaume
