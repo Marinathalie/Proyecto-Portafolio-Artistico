@@ -18,6 +18,6 @@ El usuario podra acceder a traves de la pagina web y acceder a todos los modulos
 
 ## Autores
 ---
--Maricarmen Martinez
--Laura Garcia
--Maria Guillaume
+ - Maricarmen Martinez
+ - Laura Garcia
+ - Maria Guillaume
